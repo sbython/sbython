@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sbython
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning in 1337 ben guerir
-- 📫 How to reach me ...
+- 📫 How to reach me come to 1337
 
 <!---
 sbython/sbython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
